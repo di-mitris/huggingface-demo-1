@@ -1,10 +1,10 @@
 ---
-title: {{title}}
-emoji: {{emoji}}
-colorFrom: {{colorFrom}}
-colorTo: {{colorTo}}
-sdk: {{sdk}}
-sdk_version: {{sdkVersion}}
+title: Demo
+emoji:  
+colorFrom: purple
+colorTo: red
+sdk: gradio
+sdk_version: 4.27
 app_file: app.py
 pinned: false
 ---
